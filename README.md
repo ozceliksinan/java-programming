@@ -25,7 +25,3 @@ This project is designed for those who are new to the Java programming language.
 ## How to Contribute
 
 This project is open-source, and we welcome your contributions! You can contribute by adding new exercises, editing existing ones, or improving the documentation.
-
-Contact e-mail for any question: info@sinanozcelik.com
-
-For more: sinanozcelik.com
