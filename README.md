@@ -25,3 +25,13 @@ This project is designed for those who are new to the Java programming language.
 ## How to Contribute
 
 This project is open-source, and we welcome your contributions! You can contribute by adding new exercises, editing existing ones, or improving the documentation.
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30" style="margin-bottom: -5px;"> Contact Information
+
+You can reach out to me using the following contact details:
+
+[![Email](https://img.shields.io/badge/Email-sinanozcelik%40yaani.com-brightgreen)](mailto:sinanozcelik@yaani.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sinan--ozcelik-blue)](https://www.linkedin.com/in/sinan-ozcelik/)
+
+I'm always open to development and collaboration. Feel free to reach out to me!
