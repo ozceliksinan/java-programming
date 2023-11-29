@@ -1,7 +1,6 @@
  /**
  *
  * @author Sinan Özçelik
- * web site -> sinanozcelik.com
  */
 package pkg4.metodlar.ve.metodlarda.overloading;
 

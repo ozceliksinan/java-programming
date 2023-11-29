@@ -1,7 +1,6 @@
  /**
  *
  * Writed by Sinan Özçelik
- * web site -> sinanozcelik.com
  */
 public class Test {
     public static void main(String[] args) {
@@ -17,8 +16,6 @@ public class Test {
         pc.getKasa().bilgisayari_ac();
         pc.getMonitor().monitoru_kapat();
         pc.getAnakart().isletim_sistemi_yukle("Ubuntu 16.04");
-        
-        
         
     }
     

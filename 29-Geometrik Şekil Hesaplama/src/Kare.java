@@ -1,7 +1,6 @@
  /**
  *
  * @author Sinan Özçelik
- * web site -> sinanozcelik.com
  */
 public class Kare extends Sekil{
     private int kenar;

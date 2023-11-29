@@ -1,7 +1,6 @@
  /**
  *
  * Writed by Sinan Özçelik 
- * web site -> sinanozcelik.com
  */
 public class Yonetici extends Calisan {
     private int sorumlu_kisi_sayisi;

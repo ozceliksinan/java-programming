@@ -1,7 +1,6 @@
  /**
  *
  * @author Sinan Özçelik
- * web site -> sinanozcelik.com
  */
 public class Matematik {
     
@@ -9,13 +8,7 @@ public class Matematik {
     
     public static class Alan {
         public static void daire_alan(int yaricap) {
-            
             System.out.println("Dairenin Alanı: " + (yaricap * yaricap * PI));
-            
         }
-        
-        
-        
     }
-    
 }

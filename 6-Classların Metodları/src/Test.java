@@ -1,7 +1,6 @@
  /**
  *
  * Writed by Sinan Özçelik
- * web site -> sinanozcelik.com
  */
 public class Test {
     public static void main(String[] args) {

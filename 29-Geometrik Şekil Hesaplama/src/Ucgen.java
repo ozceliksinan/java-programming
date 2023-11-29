@@ -1,7 +1,6 @@
  /**
  *
  * Writed by Sinan Özçelik
- * web site -> sinanozcelik.com
  */
 public class Ucgen extends Sekil{
     private int a;

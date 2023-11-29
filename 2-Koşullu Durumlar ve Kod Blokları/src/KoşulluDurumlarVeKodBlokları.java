@@ -1,8 +1,5 @@
- /**
- *
- * @author  * @author Sinan Özçelik
-
- * web site -> sinanozcelik.com
+ /*
+ * @author Sinan Özçelik
  */
 package pkg2.koşullu.durumlar.ve.kod.blokları;
 

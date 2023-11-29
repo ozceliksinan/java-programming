@@ -1,8 +1,8 @@
  /**
  *
  * Writed by Sinan Özçelik
- * web site -> sinanozcelik.com
- */public class Yonetici extends Calisan { // Subclass
+ */
+public class Yonetici extends Calisan { // Subclass
     
     private int sorumlu_kisi; // Ekstra Özellik
     

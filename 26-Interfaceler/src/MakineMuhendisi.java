@@ -1,7 +1,6 @@
  /**
  *
  * @author Sinan Özçelik
- * web site -> sinanozcelik.com
  */
 public class MakineMuhendisi implements IMuhendis, ICalisma{
 

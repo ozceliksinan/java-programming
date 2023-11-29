@@ -1,7 +1,6 @@
  /**
  *
  * Writed by Sinan Özçelik
- * web site -> sinanozcelik.com
  */
 public class Yazilimci extends  Calisan{
     private String diller;

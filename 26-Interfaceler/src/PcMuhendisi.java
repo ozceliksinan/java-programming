@@ -1,7 +1,6 @@
  /**
  *
  * @author Sinan Özçelik
- * web site -> sinanozcelik.com
  */
 public class PcMuhendisi implements IMuhendis{
     private boolean askerlik;

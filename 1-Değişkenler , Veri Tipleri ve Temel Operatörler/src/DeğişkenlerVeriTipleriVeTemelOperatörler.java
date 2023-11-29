@@ -5,7 +5,6 @@ import java.util.Scanner;
 /**
  *
  * @author Sinan Özçelik
- * web site -> sinanozcelik.com
  */
 public class DeğişkenlerVeriTipleriVeTemelOperatörler {
 

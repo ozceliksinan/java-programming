@@ -1,7 +1,6 @@
  /**
  *
  * @author Sinan Özçelik
- * web site -> sinanozcelik.com
  */
 public interface IMuhendis {
     
@@ -9,9 +8,4 @@ public interface IMuhendis {
     String mezuniyet_ortalamasi(double derece);
     void adli_sicil_sorgula();
     void is_tecrubesi(String[] array);
-
-    
-    
-    
-    
 }
